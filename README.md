@@ -1,13 +1,3 @@
-MystinSound static site – v6 no certificate boxes
+MystinSound static site for GitHub Pages.
 
-Upload-ready package for GitHub + Cloudflare Pages.
-
-Files:
-- index.html – Slovak version
-- en/index.html – English version
-- robots.txt
-- sitemap.xml
-
-Changes in v6:
-- Removed the four certificate/training boxes shown under the About credentials section.
-- Kept SEO bilingual architecture, navigation readability fixes, and soft background.
+Updated v8: shop section links to both Gumroad soundpacks: Exploring Contrast Bundle and Military Pack. Navigation includes Soundpacks anchor.
